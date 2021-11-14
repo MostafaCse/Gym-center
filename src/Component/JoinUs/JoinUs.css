@@ -1,0 +1,22 @@
+.joinUs{
+    color: white;
+    padding-left: 70px;
+    padding-top: 120px;
+}
+#title-highlight{
+    font-size: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 500;
+    font-style: oblique;
+}
+#paragraph-highlight{
+    font-weight: 500;
+}
+#Button-highlight{
+    background-color: yellow;
+    height: 40px;
+    width: 120px;
+  font-weight: 700;
+    border: none;
+    margin-top: 15px;
+}

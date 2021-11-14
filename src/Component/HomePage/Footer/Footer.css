@@ -1,0 +1,25 @@
+.footerHighlight{
+    background-color: black;
+    color: aliceblue;
+
+}
+.color-change{
+    color: whitesmoke;
+}
+.color-change:hover{
+  font-weight: 900;
+}
+.itemStranded{
+  color: white;
+ text-decoration: none;
+
+}
+.itemStranded:hover{
+font-size: large;
+}
+.boxHighlight{
+  background-color: #171426;
+  color: white;
+  padding: 4% 4% 0 6%;
+  margin-top: 7%;
+}

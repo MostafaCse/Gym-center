@@ -1,0 +1,44 @@
+.textHighlight{
+    font-size: 30px;
+    text-align: center;
+    font-weight: 700;
+}
+.bg-highlight{
+    background-size: cover;
+    justify-content: center;
+    text-align: center;
+    height: 100%;
+    width: 100%;
+}
+#btn-highlight{
+    background-color: yellow;
+    height: 40px;
+    width: 160px;
+  font-weight: 700;
+    border: none;
+    margin-top: 10px;
+
+}
+#btnhighlight{
+    background-color: yellow;
+    height: 40px;
+    width: 160px;
+  font-weight: 700;
+    border: none; 
+}
+.hederHighlight{
+    background-image: url('../../../Image/header-image.jpg');
+    background-size: cover;
+   height: 650px;
+   position: relative;
+
+}
+.titleHighlight{
+    color: white;
+    margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 40%;
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+}

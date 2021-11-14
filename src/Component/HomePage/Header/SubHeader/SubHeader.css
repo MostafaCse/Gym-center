@@ -1,0 +1,19 @@
+.hederHighlight{
+    background-image: url('../../../../Image/header-image.jpg');
+    background-size: cover;
+    color: white;
+    height: 560px;
+    position: relative;
+    margin-bottom: 5%;
+}
+.text-color{
+    color: white;
+}
+#titleItem{
+    margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}

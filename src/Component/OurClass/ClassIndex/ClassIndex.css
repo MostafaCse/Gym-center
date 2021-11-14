@@ -1,0 +1,59 @@
+.hederHighlight{
+    background-image: url('../../../Image/header-image.jpg');
+    background-size: cover;
+    height: 650px;
+}
+.titleHighlight{
+    font-size: 35px;
+    font-weight: 700;
+    color: white;
+    text-align: center;
+    margin-top: 200px;
+}
+.btn-position{
+    margin-top: 360px;
+    height: 60px;
+    width: 350px;
+    border: none;
+    background-color: yellow;
+    font-weight: 800;
+    font-size: 20px;
+}
+.image-position{
+    background-size: 100% 100%;
+    height: 400px;
+    margin-bottom: 40px;  
+}
+#pysco{
+    background-image: url('../../../Image/pysco.png');
+}
+#self{
+   background-image: url('../../../Image/self-defense.jpg');
+}
+#advance{
+    background-image: url('../../../Image/advance.jpg');
+}
+#cardio-male{
+    background-image: url('../../../Image/cardio-training.jpg');
+}
+#strength{
+    background-image: url('../../../Image/strength.jpg');
+}
+#pysco-female{
+    background-image: url('../../../Image//pysco-female.jpg');
+}
+.img-highlight{
+    height: 400px;
+}
+.img-highlight img{
+    height: 100% ;
+    width: 100%;
+}
+.btnHighlight{
+    background-color: yellow;
+    height: 40px;
+    width: 120px;
+  font-weight: 700;
+    border: none;
+    margin-top: 90px;
+}
